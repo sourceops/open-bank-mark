@@ -1,4 +1,6 @@
 {
  :category-name "Language"
- :mapping {"Clojure" "clojure-*"}
+ :mapping       {"Clojure" "clojure-2019-05-19-07-38"
+                 "Kotlin"  "kotlin-2019-05-19-08-11"
+                 "Rust"    "rust-2019-05-19-07-53"}
  }
